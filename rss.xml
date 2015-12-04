@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[David Cruwys]]></title>
+        <description><![CDATA[David Cruwys]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Dec 2015 06:11:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Live Streaming Video coming to Facebook]]></title>
+            <description><![CDATA[<article><h1>Live Streaming Video coming to Facebook</h1><p>Facebook announced three big new features today for its mobile app: live streaming, photo and video montages called “Collages, and a new dropdown menu for updating your status. The features are initially restricted to iPhone users in the U.S., but will eventually come to Android users as well. Facebook also appears to be testing a new concert ticket purchasing feature in San Francisco, but that isn't widely available yet. Here's a rundown: </p></article>]]></description>
+            <link>http://www.popsci.com.au/tech/computing/facebook-now-lets-you-broadcast-your-own-live-streaming-video,412669</link>
+            <guid isPermaLink="false">08bcd52a-5983-420c-9b80-5381d9f67a46</guid>
+            <pubDate>Fri, 04 Dec 2015 06:11:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
