@@ -1,0 +1,28 @@
+name: David Cruwys
+favicon: null
+layout_spectrum: 0.9813535744324327
+typography_spectrum: 0.11235511442646384
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.25366110308095813
+  lightness: 0.9202289173845202
+  saturation: 0.37962240632623434
+  rhythmicContrast: 0.8363936035893857
+purpose: []
