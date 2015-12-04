@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[David Cruwys]]></title>
         <description><![CDATA[David Cruwys]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/david-cruwys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 06:11:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Dec 2015 06:21:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/david-cruwys/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Robotic Lego Sisyphus Is All Of Us]]></title>
+            <description><![CDATA[<article><h1>Robotic Lego Sisyphus Is All Of Us</h1><p>What is the appropriate consequence for outwitting Death? The ancient Greek myth of Sisyphus tells us: eternal drudgery. The clever king, after outwitting Hades twice, was sentenced to an eternity of hard, repetitive labor: pushing a boulder up a hill, only to have it come tumbling down every time it reaches the summit.</p><img src="http://i.nextmedia.com.au/News/20151204084935_legosisyphus.jpg"></article>]]></description>
+            <link>http://www.popsci.com.au/science/robotic-lego-sisyphus-is-all-of-us,412667</link>
+            <guid isPermaLink="false">caf30535-65b9-426d-a003-fa0f5835b769</guid>
+            <pubDate>Fri, 04 Dec 2015 06:20:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Live Streaming Video coming to Facebook]]></title>
             <description><![CDATA[<article><h1>Live Streaming Video coming to Facebook</h1><p>Facebook announced three big new features today for its mobile app: live streaming, photo and video montages called “Collages, and a new dropdown menu for updating your status. The features are initially restricted to iPhone users in the U.S., but will eventually come to Android users as well. Facebook also appears to be testing a new concert ticket purchasing feature in San Francisco, but that isn't widely available yet. Here's a rundown: </p></article>]]></description>
